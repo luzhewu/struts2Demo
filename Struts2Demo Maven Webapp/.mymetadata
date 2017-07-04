@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Struts2Demo Maven Webapp"
+  id="myeclipse.1499171149223"
+  context-root="/Struts2Demo"
+  j2ee-spec="1.7"
+  archive="Struts2Demo Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
